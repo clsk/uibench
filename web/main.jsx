@@ -654,7 +654,7 @@ const state = {
     {
       'name': 'Preact',
       'url': 'https://github.com/developit/preact',
-      'benchmarkUrl': 'https://developit.github.io/uibench-preact/',
+      'benchmarkUrl': 'https://clsk.github.io/uibench-preact/',
       'comments': 'Virtual DOM. Benchmark is implemented in exactly the same way as React implementation.',
     },
     {
